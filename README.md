@@ -19,4 +19,5 @@ La siguiente fila (cuyo ancho también es igual al del contenedor de la imagen) 
 En la última fila, coloca un botón verde colocado en el extremo derecho con el texto "Siguiente" y una flecha (->).
 Mantén la altura de los botones y secciones de input uniforme.
 #### Mi diseño (Negocio)
-
+<img width="422" height="695" alt="image" src="https://github.com/user-attachments/assets/8c5322ab-d7ab-4574-ad60-5c99929aea72" />
+<img width="1360" height="777" alt="image" src="https://github.com/user-attachments/assets/4ad34f21-2a7a-4ae7-a25f-6210298aed1c" />
