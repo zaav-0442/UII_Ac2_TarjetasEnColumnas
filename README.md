@@ -9,8 +9,11 @@ Crear la clase Producto con los atributos: Título, Subtítulo y ImgUrl. Crear t
 <img width="1037" height="470" alt="image" src="https://github.com/user-attachments/assets/2667aa0a-a1c6-4097-993d-1a619a923b21" />
 
 
-### Mi Diseño
+### Mi Diseño (Ejemplo)
 <img width="295" height="488" alt="image" src="https://github.com/user-attachments/assets/c5b9e4e1-a275-4f04-9ffb-c11f9ddbd4ce" />
+
+### Mi diseño (Negocio)
+
 
 ![alt text](image.png)
 
