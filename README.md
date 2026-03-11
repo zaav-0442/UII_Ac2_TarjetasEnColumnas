@@ -8,7 +8,7 @@ Flutter Dart principiante (código completo en un solo archivo). En una columna 
 Crear la clase Producto con los atributos: Título, Subtítulo y ImgUrl. Crear también una lista de diccionarios por cada tarjeta.
 #### Mi Diseño (Ejemplo)
 <img width="295" height="488" alt="image" src="https://github.com/user-attachments/assets/c5b9e4e1-a275-4f04-9ffb-c11f9ddbd4ce" />
-![alt text](image.png)
+<img width="602" height="568" alt="image" src="https://github.com/user-attachments/assets/876b5068-851c-45c7-ad2e-97e880715346" />
 
 ### Mi Prompt a IA (Negocio)
 
